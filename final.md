@@ -74,3 +74,4 @@ Pull request a link to your documentation below:
 - Sihong Shen: [Github](https://github.com/Helena-Q1111/ResumeBase), [Documentation](https://www.notion.so/Final-Project-Documentation-3567c8dca34580c783d8e311c4377710?source=copy_link)
 - Yafira: [github repo](https://github.com/yafira/tinytinker-tools), [blog post](https://electrocuteitp.wordpress.com/2026/05/03/tinytinker-tools-is-open-source/)
 - Richard: [website](https://2603-the-algorithms-of-the-city.vercel.app/)[repo](https://github.com/ludwigpeking/2603_theAlgorithmsOfTheCity)[visual intro](https://www.youtube.com/watch?v=xrFgm3PKJoA&t=115s)
+- Vivian: [maker-world](https://www.notion.so/making-it-open-source-3564b775fd2d80d78beaeb5cbff5cf9b?source=copy_link)
